@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    //wwwwww
     @IBOutlet var label:UILabel!
     var number : Int = 0
     
